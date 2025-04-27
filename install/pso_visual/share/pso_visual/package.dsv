@@ -1,0 +1,9 @@
+source;share/pso_visual/hook/pythonpath.ps1
+source;share/pso_visual/hook/pythonpath.dsv
+source;share/pso_visual/hook/pythonpath.sh
+source;share/pso_visual/hook/ament_prefix_path.ps1
+source;share/pso_visual/hook/ament_prefix_path.dsv
+source;share/pso_visual/hook/ament_prefix_path.sh
+source;../../build/pso_visual/share/pso_visual/hook/pythonpath_develop.ps1
+source;../../build/pso_visual/share/pso_visual/hook/pythonpath_develop.dsv
+source;../../build/pso_visual/share/pso_visual/hook/pythonpath_develop.sh

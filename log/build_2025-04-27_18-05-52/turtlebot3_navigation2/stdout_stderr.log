@@ -1,0 +1,29 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+-- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml

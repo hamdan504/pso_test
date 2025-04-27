@@ -1,0 +1,28 @@
+[0.695s] Invoking command in '/home/ahmed/pso_visual_ws/build/pso_visual': AMENT_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/turtlebot3_description PYTHONPATH=/home/ahmed/pso_visual_ws/build/pso_visual/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed/pso_visual_ws/install/pso_visual/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ahmed/pso_visual_ws/build/pso_visual/build --no-deps symlink_data
+[0.927s] running develop
+[1.075s] running egg_info
+[1.075s] creating pso_visual.egg-info
+[1.075s] writing pso_visual.egg-info/PKG-INFO
+[1.075s] writing dependency_links to pso_visual.egg-info/dependency_links.txt
+[1.076s] writing entry points to pso_visual.egg-info/entry_points.txt
+[1.076s] writing requirements to pso_visual.egg-info/requires.txt
+[1.076s] writing top-level names to pso_visual.egg-info/top_level.txt
+[1.082s] writing manifest file 'pso_visual.egg-info/SOURCES.txt'
+[1.082s] reading manifest file 'pso_visual.egg-info/SOURCES.txt'
+[1.082s] writing manifest file 'pso_visual.egg-info/SOURCES.txt'
+[1.082s] running build_ext
+[1.082s] Creating /home/ahmed/pso_visual_ws/install/pso_visual/lib/python3.10/site-packages/pso-visual.egg-link (link to .)
+[1.082s] Installing pso_visual_node script to /home/ahmed/pso_visual_ws/install/pso_visual/lib/pso_visual
+[1.082s] 
+[1.082s] Installed /home/ahmed/pso_visual_ws/build/pso_visual
+[1.082s] running symlink_data
+[1.082s] creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index
+[1.082s] creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index
+[1.082s] creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index/packages
+[1.082s] symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/resource/pso_visual -> /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index/packages
+[1.082s] symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/package.xml -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual
+[1.082s] creating /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/launch
+[1.082s] symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/launch/pso_visual.launch.py -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/launch
+[1.082s] creating /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/worlds
+[1.082s] symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/worlds/pso_world.world -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/worlds
+[1.144s] Invoked command in '/home/ahmed/pso_visual_ws/build/pso_visual' returned '0': AMENT_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/turtlebot3_description PYTHONPATH=/home/ahmed/pso_visual_ws/build/pso_visual/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed/pso_visual_ws/install/pso_visual/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ahmed/pso_visual_ws/build/pso_visual/build --no-deps symlink_data

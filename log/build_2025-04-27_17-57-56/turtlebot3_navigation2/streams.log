@@ -1,0 +1,19 @@
+[0.018s] Invoking command in '/home/ahmed/pso_visual_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake /home/ahmed/pso_visual_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ahmed/pso_visual_ws/install/turtlebot3_navigation2
+[0.197s] -- The C compiler identification is GNU 11.4.0
+[0.288s] -- The CXX compiler identification is GNU 11.4.0
+[0.296s] -- Detecting C compiler ABI info
+[0.423s] -- Detecting C compiler ABI info - done
+[0.435s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.435s] -- Detecting C compile features
+[0.435s] -- Detecting C compile features - done
+[0.435s] -- Detecting CXX compiler ABI info
+[0.587s] -- Detecting CXX compiler ABI info - done
+[0.600s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.600s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.600s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.767s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.821s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.911s] -- Configuring done
+[0.911s] -- Generating done
+[0.912s] -- Build files have been written to: /home/ahmed/pso_visual_ws/build/turtlebot3_navigation2

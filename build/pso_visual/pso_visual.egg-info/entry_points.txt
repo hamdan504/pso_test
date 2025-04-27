@@ -1,0 +1,3 @@
+[console_scripts]
+pso_visual_node = pso_visual.pso_visual_node:main
+

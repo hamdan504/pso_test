@@ -1,0 +1,4 @@
+Invoking command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --build /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node -- -j4 -l4
+Invoked command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --build /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node -- -j4 -l4
+Invoking command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --install /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node
+Invoked command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --install /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node

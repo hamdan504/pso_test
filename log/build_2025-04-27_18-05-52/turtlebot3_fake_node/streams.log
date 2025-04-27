@@ -1,0 +1,32 @@
+[0.026s] Invoking command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --build /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node -- -j4 -l4
+[0.146s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_fake_node[0m
+[0.204s] [100%] Built target turtlebot3_fake_node
+[0.224s] Invoked command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --build /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node -- -j4 -l4
+[0.224s] Invoking command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --install /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node
+[0.242s] -- Install configuration: ""
+[0.242s] -- Execute custom install script
+[0.242s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[0.279s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[0.286s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[0.310s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[0.310s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[0.312s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[0.321s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[0.330s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[0.339s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[0.348s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[0.380s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[0.380s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[0.380s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[0.397s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[0.426s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[0.474s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[0.487s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[0.499s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[0.508s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[0.519s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.529s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.539s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[0.557s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[0.568s] -- Symlinking: /home/ahmed/pso_visual_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[0.581s] Invoked command in '/home/ahmed/pso_visual_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ahmed/pso_visual_ws/install/pso_visual:/opt/ros/humble /usr/bin/cmake --install /home/ahmed/pso_visual_ws/build/turtlebot3_fake_node

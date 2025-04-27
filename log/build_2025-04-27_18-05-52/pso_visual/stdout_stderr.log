@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating pso_visual.egg-info
+writing pso_visual.egg-info/PKG-INFO
+writing dependency_links to pso_visual.egg-info/dependency_links.txt
+writing entry points to pso_visual.egg-info/entry_points.txt
+writing requirements to pso_visual.egg-info/requires.txt
+writing top-level names to pso_visual.egg-info/top_level.txt
+writing manifest file 'pso_visual.egg-info/SOURCES.txt'
+reading manifest file 'pso_visual.egg-info/SOURCES.txt'
+writing manifest file 'pso_visual.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ahmed/pso_visual_ws/install/pso_visual/lib/python3.10/site-packages/pso-visual.egg-link (link to .)
+Installing pso_visual_node script to /home/ahmed/pso_visual_ws/install/pso_visual/lib/pso_visual
+
+Installed /home/ahmed/pso_visual_ws/build/pso_visual
+running symlink_data
+creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index
+creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index
+creating /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index/packages
+symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/resource/pso_visual -> /home/ahmed/pso_visual_ws/install/pso_visual/share/ament_index/resource_index/packages
+symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/package.xml -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual
+creating /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/launch
+symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/launch/pso_visual.launch.py -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/launch
+creating /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/worlds
+symbolically linking /home/ahmed/pso_visual_ws/build/pso_visual/worlds/pso_world.world -> /home/ahmed/pso_visual_ws/install/pso_visual/share/pso_visual/worlds
